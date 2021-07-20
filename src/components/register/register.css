@@ -1,0 +1,17 @@
+.container {
+	padding: 250px;
+}
+
+.center-text {
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.card-width {
+	width: 25rem;
+}
+
+.button {
+	margin-top: 1rem;
+}

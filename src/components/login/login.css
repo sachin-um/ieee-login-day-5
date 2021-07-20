@@ -1,0 +1,9 @@
+.container {
+	padding: 250px;
+}
+
+.center-text {
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+}
